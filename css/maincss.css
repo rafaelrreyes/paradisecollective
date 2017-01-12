@@ -1,0 +1,168 @@
+
+li {
+    font-family: sans-serif "Courier New";
+    cursor: pointer;
+}
+
+#header {
+    left: 330px;
+    margin-left: auto;
+    margin-top: 50px;
+    width: 1105px;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#header:hover {
+    cursor: pointer;
+}
+
+#wholebackground {
+    margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+    background-color: white;
+    display: block;
+    
+}
+
+#mainpage {
+	width: 1105px;
+	margin-left: auto;
+    margin-right: auto;
+	text-align: left;
+    background-color: white;
+}
+
+#mainnav {
+    display: block;
+    position: relative;
+	padding: 0px;
+    width: 1105px;
+    height: 38px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    float: left;
+	width: 700px;
+	margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: sans-serif "Courier New";
+    font-size: 28px;
+}
+h2 {
+    font-family: sans-serif "Courier New";
+    font-size: 20px;
+}
+
+p {
+    font-family: sans-serif "Courier New";
+    font-size: 16px;
+}
+#mainsection {
+    padding-top: 20px;
+    display:block;
+    float: left;
+	width: 1105px;
+	margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    
+}
+
+.authoredby {
+    text-align: right;
+    font-family: sans-serif "Courier New";
+}
+
+#mainlinks {
+    font-family: sans-serif "Courier New";
+    float: right;
+	width: 200px;
+    padding: 10px;
+    background-color: lightgrey;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+    height: 100%;
+}
+
+#linklist {
+    list-style: none;
+}
+
+article {
+    border-top: 1px solid black;
+
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#nav {
+    display: block;
+    position: relative;
+	padding: 0px;
+    width: 1105px;
+    height: 38px;
+
+    text-align: center;
+    left: 330px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    width: 600px;
+}
+
+#mainfooter {
+    display: block;
+    position: relative;
+    font-family: sans-serif "Courier New";
+	padding: 0px;
+    width: 1105px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+}
+    
+.footer_container{
+
+    padding-top: 50px;
+    width: 960px;
+}
+.footer_container strong{
+    font-weight: bold;
+}
+.footer_container div.container{
+    width: 320px;
+    float: left;
+}
+.footer_container ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.footer_container ul li {
+    width: 160px;
+    float: left;
+}
+
+.footer_container ul li:hover {
+    color: red;
+    cursor: pointer;
+}
